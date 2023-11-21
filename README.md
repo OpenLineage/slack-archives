@@ -1,6 +1,3 @@
-> **Note: this is a work in progress** </br>
-> This archive is currently incomplete. More of the project's Slack history is coming soon.
-
 # OpenLineage Slack Archive
 
 Browse the archive at https://openlineage.github.io/slack-archives/.
