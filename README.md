@@ -1,5 +1,9 @@
 # OpenLineage Slack Archive
 
+To get an export (entire history): workspace>Tools & Settings>Workspace settings
+
+To get the HTML with slack-export-viewer (from root): `python3 app.py -z /abs/path/to/export/dir --html-only`
+
 Browse the archive at https://openlineage.github.io/slack-archives/.
 
 ## Acknowledgements
